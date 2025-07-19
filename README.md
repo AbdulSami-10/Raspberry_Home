@@ -50,3 +50,10 @@ Tailscale VPN setup for remote, secure access.
 6.Connect your ESP devices to the private network, test MQTT and OTA.
 7.Enable Tailscale to access your Pi securely from anywhere.
 
+📜 License
+This project is open-source under the MIT License. Feel free to modify and contribute! 🎉
+
+📞 Contact
+💡 Authors: Mohammed Wajahath Haseeb | Shaik Abdul Sami | Mohammed Abdul Rahman
+📧 Email: samihyd10@gmail.com
+🐙 GitHub: AbdulSami-10
