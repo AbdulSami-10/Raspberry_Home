@@ -54,6 +54,9 @@ Tailscale VPN setup for remote, secure access.
 This project is open-source under the MIT License. Feel free to modify and contribute! 🎉
 
 📞 Contact
+
 💡 Authors: Mohammed Wajahath Haseeb | Shaik Abdul Sami | Mohammed Abdul Rahman
+
 📧 Email: samihyd10@gmail.com
+
 🐙 GitHub: AbdulSami-10
